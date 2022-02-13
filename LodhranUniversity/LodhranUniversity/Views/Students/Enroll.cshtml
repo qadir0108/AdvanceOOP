@@ -1,0 +1,70 @@
+﻿@model LodhranUniversity.Models.Student
+
+@{
+    ViewBag.Title = "Enroll";
+}
+
+<h2>Enroll</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>@Model.StudentName</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.StudentId)
+
+
+    @if (Model.Courses != null)
+    {
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Courses[0].CourseId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Courses[0].CourseTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Courses[0].CourseCreditHours)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Courses[0].Grade)
+        </th>
+    </tr>
+    @for (var i = 0; i < Model.Courses.Count(); i++)
+    {
+<tr>
+    <td>
+        @Html.TextBoxFor(x => Model.Courses[i].CourseId, new { @class = "form-control", @readonly = "readonly" })
+    </td>
+    <td>
+        @Html.TextBoxFor(x => Model.Courses[i].CourseTitle, new { @class = "form-control", @readonly = "readonly" })
+    </td>
+    <td>
+        @Html.TextBoxFor(x => Model.Courses[i].CourseCreditHours, new { @class = "form-control", @readonly = "readonly" })
+    </td>
+    <td>
+        @Html.TextBoxFor(x => Model.Courses[i].Grade, new { @class = "form-control" })
+    </td>
+</tr>
+    }
+</table>
+    }
+        <div class="form-group">
+            <div class="col-md-offset-11 col-md-1">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
