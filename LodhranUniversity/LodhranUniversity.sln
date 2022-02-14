@@ -5,7 +5,12 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LodhranUniversity", "LodhranUniversity\LodhranUniversity.csproj", "{33D18441-831C-4687-A251-82BAA56A0E6C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{82C9DC49-AA36-4157-B4E5-9FF64FF84805}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{A04AE28C-56FF-4568-BF3E-34CADF0AD0F2}"
+	ProjectSection(SolutionItems) = preProject
+		data-model-diagram-2.png = data-model-diagram-2.png
+		data-model-diagram.png = data-model-diagram.png
+		Lodhran University Information System.docx = Lodhran University Information System.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

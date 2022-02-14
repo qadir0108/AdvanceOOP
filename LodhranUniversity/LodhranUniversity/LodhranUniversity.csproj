@@ -167,8 +167,6 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Data\data-model-diagram-2.png" />
-    <Content Include="Data\data-model-diagram.png" />
     <Content Include="Data\UniversityModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>UniversityModel.Context.cs</LastGenOutput>
@@ -193,7 +191,6 @@
     <Content Include="Data\UniversityModel.edmx.diagram">
       <DependentUpon>UniversityModel.edmx</DependentUpon>
     </Content>
-    <Content Include="Data\Edit.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
