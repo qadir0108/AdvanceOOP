@@ -14,17 +14,6 @@ IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
 GO
 
 -- --------------------------------------------------
--- Dropping existing FOREIGN KEY constraints
--- --------------------------------------------------
-
-IF OBJECT_ID(N'[dbo].[FK_StudentEnrollment]', 'F') IS NOT NULL
-    ALTER TABLE [dbo].[Enrollments] DROP CONSTRAINT [FK_StudentEnrollment];
-GO
-IF OBJECT_ID(N'[dbo].[FK_CourseEnrollment]', 'F') IS NOT NULL
-    ALTER TABLE [dbo].[Enrollments] DROP CONSTRAINT [FK_CourseEnrollment];
-GO
-
--- --------------------------------------------------
 -- Dropping existing tables
 -- --------------------------------------------------
 
