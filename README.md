@@ -19,3 +19,14 @@
 
 **SOLID Principles**
 - [SOLID Principles](https://www.educative.io/blog/solid-principles-oop-c-sharp)
+- [SOLID Design Principles Explained - C#](https://www.dotnettricks.com/learn/designpatterns/solid-design-principles-explained-using-csharp)
+- [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+
+**Domain Driven Design**
+- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/)
+- [Onion Architecture In ASP.NET Core MVC](https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
+
+**Microservices Architecture**
+- [Microservice Architecture in ASP.NET Core with API Gateway](https://codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/)
+- [Microservices using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
+- [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
