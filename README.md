@@ -1,7 +1,9 @@
 # AdvanceOOP
  For students to understand AdvanceOOP in C#
 
-- MVC, Entity Framework Example Project - LodhranUniversity
+- MVC, Entity Framework Example Projects
+- Lodhran University
+- Lodhran E-Commerce Store
 
 **ASP.NET Core Tutorials**
 * [MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
@@ -10,10 +12,10 @@
 * [Razor Pages - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-6.0&tabs=visual-studio)
 
 **Design Patterns**
-- https://www.dofactory.com/net/design-patterns
+- [Design Patterns](https://www.dofactory.com/net/design-patterns)
 * [Singleton Design Pattern - Creational](https://www.dofactory.com/net/singleton-design-pattern)
 * [Facade Design Pattern - Structural](https://www.dofactory.com/net/facade-design-pattern)
 * [Observer Design Pattern - Behavioral](https://www.dofactory.com/net/observer-design-pattern)
 
 **SOLID Principles**
-- https://www.educative.io/blog/solid-principles-oop-c-sharp
+- [SOLID Principles](https://www.educative.io/blog/solid-principles-oop-c-sharp)
