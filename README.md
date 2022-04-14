@@ -20,6 +20,9 @@
 - [SOLID Design Principles Explained - C#](https://www.dotnettricks.com/learn/designpatterns/solid-design-principles-explained-using-csharp)
 - [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
+**LINQ**
+- [LINQ Tutorial](https://www.tutorialspoint.com/linq/index.htm)
+
 **Domain Driven Design**
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/)
 - [Onion Architecture In ASP.NET Core MVC](https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
