@@ -6,6 +6,8 @@
 **ASP.NET Core Tutorials**
 * [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
 * [ASP.NET Core MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
+* [Entity Framework - Code First](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
+* [ASPNET Core Web API](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio)
 * Lodhran University & Lodhran E-Commerce Store are old projects with ASP.NET (.NET Framework - Design First Approach)
 
 **Design Patterns**
@@ -31,8 +33,5 @@
 - [Microservices using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
 - [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 
-## Web API
-- Database Design, Project Domain Model Classes
-- Entity Framework - Code First https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx
-- ASPNET Core Web API https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
+## Bonus
 - Generating QR Code https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/ ZXing NET https://www.yogihosting.com/aspnet-core-zxing-net/
