@@ -3,13 +3,10 @@
 # AdvanceOOP
  For students to understand AdvanceOOP in C#
 
-- MVC, Entity Framework Example Projects
-- Lodhran University
-- Lodhran E-Commerce Store
-
 **ASP.NET Core Tutorials**
-* [MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
-* [MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
+* [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
+* [ASP.NET Core MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
+* Lodhran University & Lodhran E-Commerce Store are old projects with ASP.NET (.NET Framework - Design First Approach)
 
 **Design Patterns**
 - [Design Patterns](https://www.dofactory.com/net/design-patterns)
