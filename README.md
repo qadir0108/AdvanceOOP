@@ -4,10 +4,8 @@
  For students to understand AdvanceOOP in C#
 
 **Revision**
-* [Inheritance](https://github.com/qadir0108/VisualProgramming/blob/main/12_-_Inheritance.pdf)
-* [Inheritance - Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220612_Inheritance)
-* [Interfaces](https://github.com/qadir0108/VisualProgramming/blob/main/13_-_Interfaces.pdf)
-* [Interfaces - Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220613_Interfaces)
+* [Inheritance](https://github.com/qadir0108/VisualProgramming/blob/main/12_-_Inheritance.pdf) [Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220612_Inheritance)
+* [Interfaces](https://github.com/qadir0108/VisualProgramming/blob/main/13_-_Interfaces.pdf) [Example Project](https://github.com/qadir0108/VisualProgramming/tree/main/20220613_Interfaces)
 
 **ASP.NET Core Tutorials**
 * [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
