@@ -16,7 +16,7 @@
 * Lodhran University & Lodhran E-Commerce Store are old projects with ASP.NET (.NET Framework - Design First Approach)
 
 **Design Patterns**
-- [Design Patterns](https://www.dofactory.com/net/design-patterns)
+* [Design Patterns](https://www.dofactory.com/net/design-patterns)
 * [Singleton Design Pattern - Creational](https://www.dofactory.com/net/singleton-design-pattern)
 * [Facade Design Pattern - Structural](https://www.dofactory.com/net/facade-design-pattern)
 * [Observer Design Pattern - Behavioral](https://www.dofactory.com/net/observer-design-pattern)
