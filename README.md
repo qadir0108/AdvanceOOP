@@ -30,6 +30,7 @@
 - [Microservice Architecture in ASP.NET Core with API Gateway](https://codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/)
 - [Microservices using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
 - [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+- [Microservice Series - From Zero to Hero](https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero)
 
 ## Bonus
 - Generating QR Code https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/ ZXing NET https://www.yogihosting.com/aspnet-core-zxing-net/
