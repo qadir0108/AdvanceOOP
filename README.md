@@ -32,5 +32,5 @@
 - [Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 - [Microservice Series - From Zero to Hero](https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero)
 
-## Bonus
+### Extras
 - Generating QR Code https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/ ZXing NET https://www.yogihosting.com/aspnet-core-zxing-net/
